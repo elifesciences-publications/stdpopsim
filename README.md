@@ -1,3 +1,5 @@
+This code is associated with the paper from Adrion et al., "A community-maintained standard library of population genetic models". eLife, 2020. http://doi.org/10.7554/eLife.54967
+
 # stdpopsim
 
 [![Docs](https://readthedocs.org/projects/stdpopsim/badge/?version=latest&style=flat)](https://stdpopsim.readthedocs.io/en/latest/)[![CircleCI](https://circleci.com/gh/popsim-consortium/stdpopsim.svg?style=svg)](https://circleci.com/gh/popsim-consortium/stdpopsim)[![codecov](https://codecov.io/gh/popsim-consortium/stdpopsim/branch/master/graph/badge.svg)](https://codecov.io/gh/popsim-consortium/stdpopsim)[![Appveyor](https://ci.appveyor.com/api/projects/status/4ugxq19ql80gcpio?svg=true)](https://ci.appveyor.com/project/popsim-consortium/stdpopsim)[![TravisCI](https://travis-ci.org/popsim-consortium/stdpopsim.svg?branch=master)](https://travis-ci.org/popsim-consortium/stdpopsim)
